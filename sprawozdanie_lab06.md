@@ -2,8 +2,9 @@
 
 **Przedmiot:** Uczenie głębokie w systemach rozpoznawania i przetwarzania mowy  
 **Zajęcia nr / temat:** Laboratorium 6 — Projekt generacyjny, część 1: przygotowanie danych dla Char-RNN  
-**Autor / grupa:** Bartek / [Wpisz numer grupy]  
+**Autor** Bartosz Paluda
 **Data:** 25.11.2026  
+**Link do Githuba:** 
 
 ## 1. Cel ćwiczenia
 
@@ -68,7 +69,10 @@ Celem ćwiczenia jest przygotowanie oraz weryfikacja potoku przetwarzania danych
 | **120** | 1 612 474 | 180 114 | 121 191 |
 | **200** | 1 597 034 | 178 194 | 119 191 |
 
-*(Wklej tutaj wygenerowane wykresy: `czestosc_znakow.png` oraz `liczba_par_sekw.png`)*
+<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/91494b2c-4905-473a-8ee0-6a07d397e635" />
+<img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/736bb693-d151-4625-bbc0-2de64b6c7af3" />
+
+
 
 ## 4. Analiza i interpretacja
 
