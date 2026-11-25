@@ -4,7 +4,7 @@
 **Zajęcia nr / temat:** Laboratorium 6 — Projekt generacyjny, część 1: przygotowanie danych dla Char-RNN  
 **Autor** Bartosz Paluda
 **Data:** 25.11.2026  
-**Link do Githuba:** 
+**Link do Githuba:** https://github.com/bartoszpaluda/lab6/tree/main
 
 ## 1. Cel ćwiczenia
 
